@@ -1,6 +1,8 @@
 JSON Lint
 =========
 
+This is a fork specially edited for "Electron" framework for use with Vue
+
 A pure [JavaScript version](http://zaach.github.com/jsonlint/) of the service provided at [jsonlint.com](http://jsonlint.com).
 
 ## Command line interface
